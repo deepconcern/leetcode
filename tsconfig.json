@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "lib": ["DOM", "ES2020"],
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "strict": true,
+        "target": "ES2020"
+    }
+}
