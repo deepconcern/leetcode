@@ -12,7 +12,6 @@
  * 
  * @param candies An even-length array of candy types (numbers)
  * @returns The maximum number of candy types Alice can eat
- * @throws If the input is invalid
  */
 export const distributeCandies = (candies: number[]): number => {
     // Alice can eat n (the number of candies given) / 2, so that will be the
